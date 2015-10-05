@@ -1,0 +1,37 @@
+set number
+set paste
+syntax on
+filetype on
+
+set term=xterm-256color
+
+set autoindent
+
+set smartindent
+
+set tabstop=4
+
+set shiftwidth=2
+
+set showmatch
+
+set hlsearch
+
+set mouse=
+
+set expandtab
+
+set cindent
+
+set wildmenu
+
+set ignorecase
+
+set incsearch
+
+
+hi StatusLine ctermbg=58
+
+set ruler
+set tw=80
+set formatoptions+=t
